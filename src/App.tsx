@@ -1,11 +1,11 @@
-import HomePage from '@pages/HomePage';
+import DashboardLayout from './layouts/DashboardLayout';
+import DashboardPage from './pages/DashboardPage';
 
 const App = () => {
   return (
-    <div>
-      <div></div>
-      <HomePage />
-    </div>
+    <DashboardLayout>
+      <DashboardPage />
+    </DashboardLayout>
   );
 };
 

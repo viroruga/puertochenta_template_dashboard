@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "bradlc.vscode-tailwindcss",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "rvest.vs-code-prettier-eslint",
+    "dracula-theme.theme-dracula",
+    "csstools.postcss",
+    "usernamehw.errorlens",
+    "pkief.material-icon-theme"
+  ]
+}

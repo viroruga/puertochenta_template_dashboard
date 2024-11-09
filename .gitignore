@@ -99,5 +99,9 @@ NOTES.md
 **/public/worker-*.js.map
 **/public/fallback-*.js.map
 
-# Ocultar archivos .gitkeep pero mantener las carpetas
+# Ignorar todos los .gitkeep
 .gitkeep
+
+# Pero mantener las carpetas necesarias
+!src/
+!src/*/

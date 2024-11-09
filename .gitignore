@@ -98,3 +98,6 @@ NOTES.md
 **/public/workbox-*.js.map
 **/public/worker-*.js.map
 **/public/fallback-*.js.map
+
+# Ocultar archivos .gitkeep pero mantener las carpetas
+.gitkeep
